@@ -1,0 +1,38 @@
+(EConvertError) "" is an invalid integer
+Stacktrace:
+  $004268A1
+  $0046F707
+  $00471CF0
+  $00472ED7
+  $0051A394
+  $0053D691
+  $0053BD90
+  $005195D0
+  $0051A0FD
+  $0040AFFA
+  $00518358
+  $0050FC57
+  $00510D0E
+  $0056FE17
+  $0052F6E5
+  $76F916EB
+  $76F87B3A
+
+AdvanceMap Version: 1.9.5.0
+
+Rom informations:
+Filename: C:\Users\Rach\Desktop\Techfest\ROMs\Pokemon - Emerald Version (USA, Europe).gba
+Romname: POKEMON EMERBPEE
+
+Actual position:
+aktModularForm: AMMainForm
+CurrentViewID: 2
+MapIndex: CL:17
+OldMapIndex: CL:17
+LoadingMapIndex: CL:17
+isMapFile: false
+MapHeaderData: 64BC3E08C47F5208BABC1E0824684808670111001000020300000D00
+MapFooterData: 14000000140000003CB93E0844B93E0804F73D081CF73D0802020000
+EventHeaderData: 06000901987E520800000000287F5208B87F5208
+Connections (ConDataOffset/ConnectionAmount): $48680C / 2
+WildPokemonHeader: 0010000014085500000000000000000000000000
